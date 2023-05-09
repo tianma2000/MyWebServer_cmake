@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/a.out.dir/main.cpp.o -o a.out  lock/liblock.a threadpool/libthreadpool.a http/libhttp.a timer/libtimer.a log/liblog.a cgimysql/libcgimysql.a log/liblog.a lock/liblock.a -lpthread -lmysqlclient 

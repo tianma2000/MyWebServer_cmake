@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblock.a 
+/usr/bin/ranlib liblock.a

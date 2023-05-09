@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "atomic": "cpp",
+        "condition_variable": "cpp",
+        "mutex": "cpp",
+        "*.inc": "cpp",
+        "*.tcc": "cpp",
+        "unordered_map": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "numeric": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "functional": "cpp",
+        "array": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "new": "cpp"
+    }
+}
